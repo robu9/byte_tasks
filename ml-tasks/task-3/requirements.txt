@@ -1,0 +1,7 @@
+streamlit
+langchain>=0.0.300
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+google-generativeai 
