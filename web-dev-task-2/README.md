@@ -1,5 +1,5 @@
 # Private GitHub README Generator (Monorepo)
-
+need to split this repo into 2 different repos
 Folders:
 - backend/ : Express server
 - frontend/: React + Vite frontend
